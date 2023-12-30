@@ -1,5 +1,7 @@
 # Vehicle Routing Optimization Project
 
+![Background Image](VRP_GITHUB/Images/backimg.png)
+
 ## Introduction
 
 This project applies the Capacitated Vehicle Routing Problem (CVRP) to enhance delivery logistics for a local restaurant in Waterloo. Utilizing mathematical modeling and optimization algorithms, we aim to boost operational efficiency, reduce costs, and elevate customer satisfaction.
@@ -24,14 +26,10 @@ Minimize the total distance traveled by the fleet:
 - Load changes after each delivery.
 - No subtours or depot revisits mid-route.
 
-![Final Formulation](VRP_GITHUB/Images/formulation_image.png)
-
 ## Features
 - **Mathematical Optimization**: Minimizes total travel distance with constraints.
 - **API Integration**: Uses Google's Distance Matrix API for distance calculations.
 - **Visualization**: Employs Folium for interactive mapping and Matplotlib for plotting.
-
-![Code Output](VRP_GITHUB/Images/output.png)
 
 ## Requirements
 - Python 3.x
@@ -54,14 +52,17 @@ Instructor: Martin Pei - [Profile](https://www.math.uwaterloo.ca/~mpei/)
 ## Key Findings
 - **Efficiency Improvement**: Reduction in operational costs and enhancement of customer service through route optimization.
 - **Practical Application**: Real-world application of theoretical models, linking academic concepts with business needs.
+  
+![Code Output](VRP_GITHUB/Images/output.png)
 
 ## Conclusion
 - **Business Impact**: Highlights the significance of route optimization in local business competitiveness and efficiency.
 - **Future Scope**: Discusses potential enhancements, including scalability and real-time traffic data integration.
 
-![Background Image](VRP_GITHUB/Images/backimg.png)
-
 ## Visualization Output
-For an interactive view of the routes, see the HTML map file: [VRP_GITHUB/Images/routes_map.html](VRP_GITHUB/Images/routes_map.html)
+![Final Formulation](VRP_GITHUB/Images/formulation_image.png)
+
+For an interactive view of the routes, see the HTML map file: ![Map](VRP_GITHUB/Images/routes_map.html)
+
 
 (Note: The HTML file is best viewed in a web browser.)
