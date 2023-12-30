@@ -60,10 +60,11 @@ Instructor: Martin Pei - [Profile](https://www.math.uwaterloo.ca/~mpei/)
 - **Future Scope**: Discusses potential enhancements, including scalability and real-time traffic data integration.
 
 ## Visualization Output
+
 ![Final Formulation](VRP_GITHUB/Images/formulation_image.png)
 
-For an interactive view of the routes, see the HTML map file:[Interactive Map]([https://DhruvSTrivedi.github.io/VRP_GITHUB/Images/routes_map.html](https://dhruvstrivedi.github.io/CVRP-Optimization/routes_map.html))
+## Interactive Map
+For an interactive view of the routes, see the HTML map file: [Map](https://dhruvstrivedi.github.io/CVRP-Optimization/routes_map.html)
 
 (Note: The HTML file is best viewed in a web browser.)
 
-##Thank You
