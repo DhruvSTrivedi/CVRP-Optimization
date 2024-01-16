@@ -64,7 +64,7 @@ Instructor: Martin Pei - [Profile](https://www.math.uwaterloo.ca/~mpei/)
 ![Final Formulation](VRP_GITHUB/Images/formulation_image.png)
 
 ## Interactive Map
-For an interactive view of the routes, see the HTML map file: [Map](https://dhruvstrivedi.github.io/CVRP-Optimization/routes_map.html)
+For an interactive view of the routes, see the HTML map file: [Map](https://raw.githack.com/DhruvSTrivedi/VRP-Optimization/main/VRP_GITHUB/Images/routes_map.html)
 
 (Note: The HTML file is best viewed in a web browser.)
 
